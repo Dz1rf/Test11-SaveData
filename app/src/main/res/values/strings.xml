@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test11 SaveData</string>
+    <string name="But1">Save</string>
+    <string name="But2">Load</string>
+    <string name="EntText">Текст</string>
+</resources>
